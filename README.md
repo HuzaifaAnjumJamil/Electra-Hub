@@ -6,19 +6,18 @@ Electra Hub is a fully responsive Modern Full Stack Ecommerce application with P
 
 ![Imgur](https://i.imgur.com/TgRZVjY.jpg)
 
+![Imgur](https://i.imgur.com/fLyWHLF.jpg)
+
 ![Imgur](https://i.imgur.com/rXc5Rz5.jpg)
-
-![Imgur](https://i.imgur.com/DdnUfNL.jpg)
-
-![Imgur](https://i.imgur.com/byS2SkB.jpg)
-
-![Imgur](https://i.imgur.com/5NkISVh.jpg)
-
-![Imgur](https://i.imgur.com/scWpBoO.jpg)
-
-![Imgur](https://i.imgur.com/j0j9UoJ.jpg)
 
 ![Imgur](https://i.imgur.com/UTYdAxw.jpg)
 
-![Imgur](https://i.imgur.com/fLyWHLF.jpg)
+![Imgur](https://i.imgur.com/byS2SkB.jpg)
 
+![Imgur](https://i.imgur.com/scWpBoO.jpg)
+
+![Imgur](https://i.imgur.com/5NkISVh.jpg)
+
+![Imgur](https://i.imgur.com/j0j9UoJ.jpg)
+
+![Imgur](https://i.imgur.com/DdnUfNL.jpg)
